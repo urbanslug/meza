@@ -1,0 +1,13 @@
+build/
+bin/
+Debug/
+Testing/
+.cache/
+__pycache__/
+
+# common povu output files
+*.vcf
+*.dot
+*.pvst
+## commonly stores refs
+refs.txt
